@@ -1,5 +1,6 @@
 {
   "name": "test-webpage",
+  "homepage": "https://bobcode99.github.io/test-webpage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
