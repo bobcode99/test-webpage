@@ -14,8 +14,8 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="textArea" element={<TextAreaReact />} />
+      <Route path="test-webpage" element={<App />} />
+      <Route path="test-webpage/:textArea" element={<TextAreaReact />} />
     </Routes>
   </BrowserRouter>,
   rootElement

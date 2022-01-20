@@ -11,7 +11,7 @@ function App() {
           paddingBottom: "1rem"
         }}
       >
-        <Link to="/textArea">React-textArea</Link> |{" "}
+        <Link to="textArea">React-textArea</Link> |{" "}
       </nav>
       <h1>Testing webpage</h1>
     </div>
